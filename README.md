@@ -49,6 +49,7 @@
 
 - [todo](https://github.com/chenzhongyu331166-hub/todo) — 命令行待办工具（纯 Python 标准库：add / done / del / list + JSON 存档）
 - [flask_demo](https://github.com/chenzhongyu331166-hub/flask_demo) — Flask 入门练习：路由 · GET/POST · 模板
+- [student-performance-analysis](https://github.com/chenzhongyu331166-hub/student-performance-analysis) — 中学生学业成绩影响因素研究（pandas 读筛排存 · 数据清洗 · 分组聚合 · 相关性热力图）
 
 ## 🛠 技术栈
 
