@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chen Zhongyu 👋
+# Hi, I'm ZouXiaoyu 👋
 
 **浙江大学 · 自学计算机中** —— 正在执行「从零学 CS」计划  
 本地优先 · 零订阅 · 全开源的工具开发者
